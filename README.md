@@ -1,0 +1,2 @@
+# Algorithms
+An exposition of coding problems and solutions. For each problem listed here, you can follow the link to find my solution(s). Credit due to Leet code, Code Wars, and Cracking the Coding Interview for providing great algorithms to work through.
