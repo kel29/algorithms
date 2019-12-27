@@ -1,6 +1,13 @@
 # Algorithms
 An exposition of coding problems and solutions. For each problem listed here, you can follow the link to find my solution(s). Credit due to Leet code, Code Wars, and Cracking the Coding Interview for providing great algorithms to work through.
 
+### Unique String
+##### From Cracking the Coding Interview
+
+"Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?"
+
+**[JavaScript Solution](./Solutions/uniqueString.js)**
+
 ### [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 ##### From Code Wars
 
