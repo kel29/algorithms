@@ -1,6 +1,13 @@
 # Algorithms
 An exposition of coding problems and solutions. For each problem listed here, you can follow the link to find my solution(s). Credit due to Leet code, Code Wars, and Cracking the Coding Interview for providing great algorithms to work through.
 
+### [String Permutation]
+##### From Cracking the Coding Interview
+
+"Given two strings, write a mentod to decide if one is a permutation of the other"
+
+**[JavaScript Solution](./Solutions/stringPermutation.js)**
+
 ### Unique String
 ##### From Cracking the Coding Interview
 
