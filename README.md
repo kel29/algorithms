@@ -8,6 +8,13 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 
 **[JavaScript Solution](./Solutions/stringPermutation.js)**
 
+### [String Compression]
+##### Modified From Cracking the Coding Interview
+
+"Implement a method to perform basic string compression using the counts of repeated characters."
+
+**[JavaScript Solution](./Solutions/stringCompression.js)**
+
 ### Unique String
 ##### From Cracking the Coding Interview
 
