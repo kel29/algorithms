@@ -3,6 +3,15 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 
 ## Linked Lists
 
+### Partition Linked List
+##### From Cracking the Coding Interview
+
+"Write code to partition a linked list around a value x, such that all nodes less than x come before all nodes greater than or equal to x."
+
+**[JavaScript Solution](./Solutions/paritionLinkedList.js)**
+
+---
+
 ### K to Last Value of a Linked List
 ##### From Cracking the Coding Interview
 
