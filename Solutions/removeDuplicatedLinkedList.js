@@ -1,4 +1,4 @@
-// Write code to remove duplicated from an unsorted singularly linked list.
+// Write code to remove duplicated from an unsorted singly linked list.
 
 const removeDuplicates = (LinkedList) => {
   let current = LinkedList.head

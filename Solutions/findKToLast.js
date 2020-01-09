@@ -1,5 +1,5 @@
 // Implement an algorithm to find the kth to last element of a
-// singularly linked list.
+// singly linked list.
 
 // Note: if k is 1, the last value in the LinkedList should be returned.
 

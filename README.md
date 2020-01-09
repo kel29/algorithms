@@ -6,16 +6,25 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 ### K to Last Value of a Linked List
 ##### From Cracking the Coding Interview
 
-"Implement an algorithm to find the kth to last element of a singularly linked list."
+"Implement an algorithm to find the kth to last element of a singly linked list."
 
 **[JavaScript Solution](./Solutions/findKToLast.js)**
+
+---
+
+### Remove Given Node from a Linked List
+##### From Cracking the Coding Interview
+
+"Implement an algorithm to delete a node in the middle of a singly linked list, given only access to that node."
+
+**[JavaScript Solution](./Solutions/deleteGivenNode.js)**
 
 ---
 
 ### Remove Duplicates from a Linked List
 ##### Modified From Cracking the Coding Interview
 
-"Write code to remove duplicated from an unsorted, singularly linked list."
+"Write code to remove duplicated from an unsorted, singly linked list."
 
 **[JavaScript Solution](./Solutions/removeDuplicatedLinkedList.js)**
 
