@@ -3,6 +3,15 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 
 ## Linked Lists
 
+### K to Last Value of a Linked List
+##### From Cracking the Coding Interview
+
+"Implement an algorithm to find the kth to last element of a singularly linked list."
+
+**[JavaScript Solution](./Solutions/findKToLast.js)**
+
+---
+
 ### Remove Duplicates from a Linked List
 ##### Modified From Cracking the Coding Interview
 
@@ -23,7 +32,7 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 
 ---
 
-### [String Compression]
+### String Compression
 ##### Modified From Cracking the Coding Interview
 
 "Implement a method to perform basic string compression using the counts of repeated characters."
