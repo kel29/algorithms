@@ -3,6 +3,15 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 
 ## Linked Lists
 
+### Sum Linked List Digits
+##### From Cracking the Coding Interview
+
+Write a function that add two linked lists together, where each node contains a single digit sored in revers order.
+
+**[JavaScript Solution](./Solutions/linkedListSum.js)**
+
+---
+
 ### Partition Linked List
 ##### From Cracking the Coding Interview
 
