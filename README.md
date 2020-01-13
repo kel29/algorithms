@@ -1,6 +1,17 @@
 # Algorithms
 An exposition of coding problems and solutions. For each problem listed here, you can follow the link to find my solutions. Credit due to Leet code, Code Wars, and Cracking the Coding Interview for providing great algorithms to work through.
 
+## Stacks and Queues
+
+### Towers of Hanoi
+##### Modified From Cracking the Coding Interview
+
+Write a function that solves the Towers of Hanoi problem using three stacks.
+
+**[JavaScript Solution](./Solutions/towersOfHanoi.js)**
+
+---
+
 ## Linked Lists
 
 ### Sum Linked List Digits
