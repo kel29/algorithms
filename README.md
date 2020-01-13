@@ -12,6 +12,15 @@ Write a function that solves the Towers of Hanoi problem using three stacks.
 
 ---
 
+### Stack with Min
+##### Modified From Cracking the Coding Interview
+
+Create a Stack class which also has a function `min` that returns the minimum element. Functions `push`, `pop`, and `min` should all operate in O(1) time.
+
+**[JavaScript Solution](./Solutions/stackWithMin.js)**
+
+---
+
 ## Linked Lists
 
 ### Sum Linked List Digits
