@@ -26,9 +26,17 @@ Create a Stack class which also has a function `min` that returns the minimum el
 ### Sum Linked List Digits
 ##### From Cracking the Coding Interview
 
-Write a function that add two linked lists together, where each node contains a single digit sored in revers order.
+Write a function that add two linked lists together, where each node contains a single digit stored in reverse order.
 
 **[JavaScript Solution](./Solutions/linkedListSum.js)**
+
+---
+
+### Linked List Midpoint
+
+"Find the midpoint of a singly linked list."
+
+**[JavaScript Solution](./Solutions/midpointLinkedList.js)**
 
 ---
 
