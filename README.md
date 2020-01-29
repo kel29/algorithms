@@ -2,10 +2,10 @@
 An exposition of coding problems and solutions. For each problem listed here, you can follow the link to find my solutions. Credit due to Leet code, Code Wars, and Cracking the Coding Interview for providing great algorithms to work through.
 
 ## Algorithm Topics
-[Trees](#Trees)
-[Stacks and Queues](#Stacks-and-Queues)
-[Linked Lists](#Linked-Lists)
-[String and Array Manipulation](#String-and-Array-Manipulation)
+- [Trees](#Trees)
+- [Stacks and Queues](#Stacks-and-Queues)
+- [Linked Lists](#Linked-Lists)
+- [String and Array Manipulation](#String-and-Array-Manipulation)
 
 ## Trees
 
@@ -15,6 +15,15 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 "Given a binary tree and two unique values, check if two nodes with those values are cousins (same level with different parents)."
 
 **[JavaScript Solution](./Solutions/treeCousins.js)**
+
+---
+
+### [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+##### From LeetCode
+
+"Given a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus sum of all keys greater than the original key in BST."
+
+**[JavaScript Solution](./Solutions/greaterTree.js)**
 
 ---
 
