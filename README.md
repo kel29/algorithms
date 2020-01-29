@@ -1,6 +1,12 @@
 # Algorithms
 An exposition of coding problems and solutions. For each problem listed here, you can follow the link to find my solutions. Credit due to Leet code, Code Wars, and Cracking the Coding Interview for providing great algorithms to work through.
 
+## Algorithm Topics
+[Trees](#Trees)
+[Stacks and Queues](#Stacks-and-Queues)
+[Linked Lists](#Linked-Lists)
+[String and Array Manipulation](#String-and-Array-Manipulation)
+
 ## Trees
 
 ### [Binary Tree Cousins](https://leetcode.com/problems/cousins-in-binary-tree/)
