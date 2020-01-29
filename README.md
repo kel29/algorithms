@@ -3,6 +3,15 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 
 ## Trees
 
+### [Binary Tree Cousins](https://leetcode.com/problems/cousins-in-binary-tree/)
+##### From LeetCode
+
+"Given a binary tree and two unique values, check if two nodes with those values are cousins (same level with different parents)."
+
+**[JavaScript Solution](./Solutions/treeCousins.js)**
+
+---
+
 ### [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 ##### From LeetCode
 
