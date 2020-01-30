@@ -30,9 +30,18 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 ### [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
 ##### From LeetCode
 
-"Given a binary tree return the tilt of the tree, which is the absolute value of the difference between left and right values"
+"Given a binary tree return the tilt of the tree, which is the absolute value of the difference between left and right values."
 
 **[JavaScript Solution](./Solutions/treeTilt.js)**
+
+---
+
+### [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+##### From LeetCode
+
+"Given a binary tree, determine if it is height-balanced, where the left and right subtrees of every node differ in height by no more than 1."
+
+**[JavaScript Solution](./Solutions/balancedTree.js)**
 
 ---
 

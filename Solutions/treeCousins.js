@@ -4,7 +4,7 @@
 // with unique values, and the values x and y of two different nodes in the tree.
 // Return true if and only if the nodes corresponding to the values x and y are cousins.
 
-const isCousins = function(root, x, y) {
+const isCousins = (root, x, y) => {
   let depthX = 0
   let depthY = 0
   

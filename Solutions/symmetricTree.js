@@ -1,7 +1,7 @@
 // Given a binary tree, check whether it is a mirror of itself
 // https://leetcode.com/problems/symmetric-tree/
 
-const isSymmetric = function(root) {
+const isSymmetric = (root) => {
   if (!root) return true
   
   const compareSides = (left, right) => {
