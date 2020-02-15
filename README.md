@@ -9,6 +9,24 @@ An exposition of coding problems and solutions. For each problem listed here, yo
 
 # Trees
 
+### [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+##### From LeetCode
+
+"Given a binary tree, return the level order traversal of its nodes' values."
+
+**[JavaScript Solution](./Solutions/treeLevelOrder.js)**
+
+---
+
+### [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+##### From LeetCode
+
+"Given an array where elements are sorted in ascending order, convert it to a height balanced BST."
+
+**[JavaScript Solution](./Solutions/arrayToBst.js)**
+
+---
+
 ### [Binary Tree Cousins](https://leetcode.com/problems/cousins-in-binary-tree/)
 ##### From LeetCode
 
@@ -91,6 +109,14 @@ Create a Stack class which also has a function `min` that returns the minimum el
 Write a function that add two linked lists together, where each node contains a single digit stored in reverse order.
 
 **[JavaScript Solution](./Solutions/linkedListSum.js)**
+
+---
+
+### Linked List Cycle
+
+"Given a linked list, determine if it has a cycle in it."
+
+**[JavaScript Solution](./Solutions/linkedListCycle.js)**
 
 ---
 
