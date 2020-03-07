@@ -166,6 +166,15 @@ Write a function that add two linked lists together, where each node contains a 
 
 # String and Array Manipulation
 
+### [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/)
+##### From LeetCode
+
+"Determine if a 9x9 Sudoku board is valid."
+
+**[JavaScript Solution](./Solutions/validSudoku.js)**
+
+---
+
 ### String Permutation
 ##### From Cracking the Coding Interview
 
