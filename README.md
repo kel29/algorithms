@@ -184,6 +184,15 @@ Write a function that add two linked lists together, where each node contains a 
 
 ---
 
+### [Two Sum](https://leetcode.com/problems/two-sum/)
+##### From LeetCode
+
+"Given an array of integers, return indices of the two numbers such that they add up to a specific target."
+
+**[JavaScript Solution](./Solutions/twoSum.js)**
+
+---
+
 ### String Compression
 ##### Modified From Cracking the Coding Interview
 
