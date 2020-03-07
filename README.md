@@ -120,6 +120,15 @@ Write a function that add two linked lists together, where each node contains a 
 
 ---
 
+### [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+##### From LeetCode
+
+"Reverse a singly linked list."
+
+**[JavaScript Solution](./Solutions/reverseLinkedList.js)**
+
+---
+
 ### Linked List Midpoint
 
 "Find the midpoint of a singly linked list."
